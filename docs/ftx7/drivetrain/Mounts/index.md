@@ -116,6 +116,9 @@ where:
 
 *FEA of the FTX-7 drivetrain mount, illustrating the strange load paths and stress distribution.*
 
+![FTX-6 drivetrain mount showing an improved load path](../assets/GOOD_MOUNT.png)
+
+*FTX-6 drivetrain mount FEA, showing a better example of better mount load path.*
 
 - FEA was used during the FTX-7 design process to identify low-stress regions and remove unnecessary material. However, further mass reduction would likely have been possible.
 
