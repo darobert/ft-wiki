@@ -112,6 +112,10 @@ where:
 
 - In particular, supporting the drivetrain from the engine resulted in indirect load paths between the spool bearings and the chassis. This required additional material to achieve sufficient stiffness and strength, contributing to unnecessarily heavy drivetrain mounts.
 
+![FEA of the FTX-7 drivetrain mount showing the structural load paths](../assets/Mount%20FEA.png)
+
+*FEA of the FTX-7 drivetrain mount, illustrating the load paths and stress distribution.*
+
 - FEA was used during the FTX-7 design process to identify low-stress regions and remove unnecessary material. However, further mass reduction would likely have been possible.
 
 - A future design should first improve the fundamental load paths before using FEA for detailed geometry optimisation. Material removal cannot compensate for an inefficient underlying structural layout.
