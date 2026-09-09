@@ -112,7 +112,7 @@ where:
 
 - In particular, supporting the drivetrain from the engine resulted in indirect load paths between the spool bearings and the chassis. This required additional material to achieve sufficient stiffness and strength, contributing to unnecessarily heavy drivetrain mounts.
 
-![FEA of the FTX-7 drivetrain mount showing structural load paths](../assests/Mount_FEA.png)
+![FEA of the FTX-7 drivetrain mount showing structural load paths](../assets/Mount_FEA.png)
 
 *FEA of the FTX-7 drivetrain mount, illustrating the strange load paths and stress distribution.*
 
