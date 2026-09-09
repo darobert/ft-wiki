@@ -66,13 +66,11 @@ $$
 R_R L = F_{\text{chain}} a
 $$
 
-Therefore:
 
 $$
 R_R = F_{\text{chain}}\frac{a}{L}
 $$
 
-and:
 
 $$
 R_L = F_{\text{chain}}\frac{L-a}{L}
@@ -122,9 +120,13 @@ where:
 
 - FEA was used during the FTX-7 design process to identify low-stress regions and remove unnecessary material. However, further mass reduction would likely have been possible.
 
-- A future design should first improve the fundamental load paths before using FEA for detailed geometry optimisation. Material removal cannot compensate for an inefficient underlying structural layout.
+- A future design should first improve the fundamental load paths before using FEA for geometry optimisation. 
 
 - Future drivetrain designs should aim to transfer bearing reactions into the chassis through the shortest and stiffest practical load paths. This should allow substantially lighter mounts while maintaining adequate stiffness, strength and drivetrain alignment.
+
+- Could be possible to make mounts from a more thin steel sheet? Mount stiffness should be considered alongside strength. Excessive deflection at the spool bearings can cause sprocket and chain misalignment even when stresses remain below yield.
+
+- FEA should therefore be used to verify both maximum stress and displacement at the bearing locations under the critical drivetrain load cases.
 
 ### Engine-Mounted Drivetrain
 
