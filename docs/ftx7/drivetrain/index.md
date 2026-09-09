@@ -1,10 +1,9 @@
 # System Overview
 
 
-*Any terminology in **bold** is explained in the [Glossary of Terms](../Glossary%20of%20terms/) section.*
 
 
-The drivetrain of the car is the system that takes the power outputted by the engine, and transfers it to the wheels of the car. In the case of most Formula Student cars, this usually consists of a chain from the engine's **drive sprocket** to a **driven sprocket**. The driven sprocket is typically mounted to a **differential**, which spins along with it, turning the **half shafts** , **hubs** and eventually, the **driven wheels** of the car. The drivetrain department is also responsible for the car's braking system
+The drivetrain of the car is the system that takes the power outputted by the engine, and transfers it to the wheels of the car. In the case of most Formula Student cars, this usually consists of a chain from the engine's drive sprocket to a driven sprocket. The driven sprocket is typically mounted to a differential, which spins along with it, turning the half shafts , hubs and eventually, the driven wheels of the car. The drivetrain department is also responsible for the car's braking system
 
 ## FTX-7 Drivetrain
 In the case of FTX-7, the main design choice was choosing to use a **spool** rather than a differential. 
