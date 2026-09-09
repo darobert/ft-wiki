@@ -12,9 +12,17 @@ More specifically, they were taken from a 1989-93 MX-5 1.6L NA. This is because 
 
 This was opted for because since a spool was being used, bolting directly to a spool flange would be much easier and cost effective than machining splines into the spool.
 
+![MX-5 Stub](../assets/MX5_STUB.jpeg)
+
+*Image of bolt on MX5 inner CV joint. As you can see, the inner CV splines can be unbolted from the CV joint itself. This is where the inner CV would bolt to the spool*
+
 Should a fresh set of axles need to be bought, they were purchased off DoneDeal from Robert Maguire who had a lot of scrap MX5s. His profile is linked below.
 
 [DoneDeal – MX-5 parts seller](https://www.donedeal.ie/all?userId=5174965)
+
+![MX-5 Breaker](../assets/MX5_BREAKER.jpeg)
+
+*Image of the MX5 breaker car used*
 
 ## Design considerations
 
