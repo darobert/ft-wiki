@@ -37,3 +37,5 @@ As with any bolted component on the car, bolt shear, tear-out and bearing must b
 MX-5 rear axle assembly is quite heavy, a lighter option could be considered.
 
 When cutting half shafts to length, they were cut in half, turned to 45 degree ends at the end of each half on a lathe, and a small circular key and slot were created on each side of the shaft. Feedback from Head of Manufacturing recommened that in future the ends be cut to a 30 degree angle with a sharp point rather than a slot and key in order to improve weld penetration.
+
+It's worth noting that to remove the half shaft from the inner cv< you need to hammer the half shaft through a small circular cover at the bottom of the inner CV. It pops right out with a few hits from a hammer.
